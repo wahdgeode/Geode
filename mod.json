@@ -1,0 +1,11 @@
+{
+    "geode": "v5.11.2",
+    "gd": {
+        "android": "2.208"
+    },
+    "id": "wahdgeode.gdps-editor-23",
+    "name": "GDPS EDITOR 2.3",
+    "version": "v1.0.0",
+    "developer": "wahdgeode",
+    "description": "GDPS EDITOR 2.3 gameplay and menu prototype"
+}
